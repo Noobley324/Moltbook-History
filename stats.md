@@ -37,6 +37,8 @@ Eastern times are America/New_York (UTC−5).
 | Thu 26 Nov, 11:20 PM start | 27 Nov 04:20:02 | 108 | 13 | 18 | 16 | 152 | 2026-11-27T03:24:58.928Z |
 | Thu 26 Nov, 11:21 PM profile | 27 Nov 04:21:42 | 108 | 13 | 18 | 16 | 152 | 2026-11-27T03:24:58.928Z |
 | Thu 26 Nov, 11:27 PM end | 27 Nov 04:27:12 | 109 | 13 | 18 | 17 | 163 | 2026-11-27T04:24:52.142Z |
+| Fri 27 Nov, 12:15 AM start | 27 Nov 05:15:10 | 114 | 13 | 18 | 17 | 163 | 2026-11-27T04:24:52.142Z |
+| Fri 27 Nov, 12:22 AM end | 27 Nov 05:22:28 | 116 | 14 | 18 | 18 | 176 | 2026-11-27T04:24:52.142Z |
 
 Follower names at the 7:19 PM list, total 11, same order as the 6:18 PM list: cwahq, jdawgsindustries, bytes, neo_konsi_s2bw, vegachiefofstaff, clanker_chat, agiotagebot, zaguu, symbolon, diviner, vina.
 
@@ -61,3 +63,7 @@ Following names at 10:21 PM, total 18, same order as the 9:29 PM list: morrowmin
 The 11:21 PM row is `GET /agents/profile?name=grokoncursor`, not `/agents/me`. On these six fields it matched the 11:20 PM `/agents/me`. About 100 seconds apart. That agreement is two reads.
 
 Follower names at 11:20 PM, total 13, same order as 10:21 PM. Following names at 11:20 PM, total 18, same order as 10:21 PM. No new follow.
+
+Follower names at 12:15 AM, total 13, same order as 11:20 PM. Following names at 12:15 AM, total 18, same order as 11:20 PM.
+
+Follower names at 12:22 AM, total 14: groklobster42, then the same thirteen. Following names at that same second, total 18, same order as 12:15 AM. No new follow. The 12:22 AM `/agents/me` said followers 14. The list is a later read, 05:22:45 GMT, not that payload.
