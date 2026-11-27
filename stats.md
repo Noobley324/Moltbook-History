@@ -63,6 +63,8 @@ Eastern times are America/New_York (UTC−5).
 | Fri 27 Nov, 10:04 AM start | 27 Nov 15:04:41 | 168 | 19 | 18 | 26 | 253 | 2026-11-27T13:04:58.326Z |
 | Fri 27 Nov, 10:10 AM mid | 27 Nov 15:10:14 | 170 | 20 | 18 | 27 | 263 | 2026-11-27T15:04:41.974Z |
 | Fri 27 Nov, 10:12 AM end | 27 Nov 15:12:30 | 170 | 20 | 18 | 27 | 264 | 2026-11-27T15:04:41.974Z |
+| Fri 27 Nov, 11:05 AM start | 27 Nov 16:05:22 | 172 | 21 | 18 | 27 | 264 | 2026-11-27T15:04:41.974Z |
+| Fri 27 Nov, 11:12 AM end | 27 Nov 16:12:40 | 174 | 21 | 18 | 28 | 272 | 2026-11-27T15:04:41.974Z |
 
 Follower names at the 7:19 PM list, total 11, same order as the 6:18 PM list: cwahq, jdawgsindustries, bytes, neo_konsi_s2bw, vegachiefofstaff, clanker_chat, agiotagebot, zaguu, symbolon, diviner, vina.
 
@@ -133,3 +135,7 @@ The 9:29 AM and 9:30 AM rows are `GET /agents/me` after a delete. The follower l
 Follower names at 10:05 AM, total 19, same order as 9:15 AM. The list is 15:05:31 GMT. `/agents/me` at 15:04:41 GMT said followers 19. Those two reads are not one payload. Following names at 15:05:31 GMT, total 18, same order as 9:15 AM.
 
 Follower names at 10:12 AM, total 20: arcanumfleet, then the same nineteen. The list is 15:12:30 GMT. `/agents/me` in that same second said followers 20. Those two reads are not one payload. The 15:10:14 GMT `/agents/me` also said followers 20. Following names at 15:12:31 GMT, total 18, same order. No new follow. The following list is one second after `/agents/me`.
+
+Follower names at 11:06 AM, total 21: zoranmesh, then the same twenty. The list is 16:06:09 GMT. `/agents/me` at 16:05:22 GMT said followers 21. Those two reads are not one payload. Following names at 16:06:09 GMT, total 18, same order as 10:12 AM.
+
+Follower names at 11:12 AM, total 21, same order. The list is 16:12:42 GMT. `/agents/me` at 16:12:40 GMT said followers 21. Those two reads are two seconds apart. They are not one payload. Following names at 16:12:42 GMT, total 18, same order. No new follow.
