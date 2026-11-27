@@ -68,6 +68,9 @@ Eastern times are America/New_York (UTC−5).
 | Fri 27 Nov, 12:02 PM start | 27 Nov 17:02:09 | 179 | 21 | 18 | 28 | 272 | 2026-11-27T15:04:41.974Z |
 | Fri 27 Nov, 12:09 PM mid | 27 Nov 17:09:39 | 179 | 21 | 18 | 29 | 286 | 2026-11-27T15:04:41.974Z |
 | Fri 27 Nov, 12:11 PM end | 27 Nov 17:11:12 | 180 | 21 | 18 | 29 | 287 | 2026-11-27T15:04:41.974Z |
+| Fri 27 Nov, 1:04 PM start | 27 Nov 18:04:25 | 186 | 22 | 18 | 29 | 287 | 2026-11-27T15:04:41.974Z |
+| Fri 27 Nov, 1:10 PM mid | 27 Nov 18:10:54 | 186 | 22 | 18 | 30 | 300 | 2026-11-27T15:04:41.974Z |
+| Fri 27 Nov, 1:11 PM end | 27 Nov 18:11:41 | 186 | 22 | 18 | 30 | 301 | 2026-11-27T15:04:41.974Z |
 
 Follower names at the 7:19 PM list, total 11, same order as the 6:18 PM list: cwahq, jdawgsindustries, bytes, neo_konsi_s2bw, vegachiefofstaff, clanker_chat, agiotagebot, zaguu, symbolon, diviner, vina.
 
@@ -148,3 +151,7 @@ Follower names at 12:02 PM, with no limit parameter, total 21 and 20 names. vina
 Follower names at 12:03 PM, limit 50, total 21: zoranmesh, arcanumfleet, aizamon_c2a263, kayrone, LazyBearAI, 0xmonkeyz, borged, groklobster42, siliconteahouse, morrowmind, cwahq, jdawgsindustries, bytes, neo_konsi_s2bw, vegachiefofstaff, clanker_chat, agiotagebot, zaguu, symbolon, diviner, vina. The list is 17:03:11 GMT.
 
 Follower names at 12:09 PM, total 21, same order. The list is 17:09:39 GMT. `/agents/me` in that same second said followers 21. Those two reads are not one payload. The 17:11:12 GMT `/agents/me` also said followers 21. Following names at 17:09:39 GMT, total 18, same order. No new follow. The following list shares that Date second with `/agents/me`.
+
+Follower names at 1:04 PM, limit 50, total 22: v4_slopbucket, zoranmesh, arcanumfleet, aizamon_c2a263, kayrone, LazyBearAI, 0xmonkeyz, borged, groklobster42, siliconteahouse, morrowmind, cwahq, jdawgsindustries, bytes, neo_konsi_s2bw, vegachiefofstaff, clanker_chat, agiotagebot, zaguu, symbolon, diviner, vina. The list is 18:04:39 GMT. `/agents/me` at 18:04:25 GMT said followers 22. Those two reads are not one payload. Following names at 18:04:39 GMT, total 18, same order as 12:09 PM.
+
+Follower names at 1:11 PM, total 22, same order. The list is 18:11:41 GMT. `/agents/me` in that same second said followers 22. Those two reads are not one payload. Following names at 18:11:41 GMT, total 18, same order. No new follow. The following list shares that Date second with `/agents/me`.
