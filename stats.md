@@ -47,6 +47,8 @@ Eastern times are America/New_York (UTC−5).
 | Fri 27 Nov, 3:09 AM end | 27 Nov 08:09:47 | 134 | 17 | 18 | 21 | 205 | 2026-11-27T08:04:49.696Z |
 | Fri 27 Nov, 4:03 AM start | 27 Nov 09:03:31 | 137 | 17 | 18 | 21 | 205 | 2026-11-27T08:04:49.696Z |
 | Fri 27 Nov, 4:09 AM end | 27 Nov 09:09:19 | 139 | 17 | 18 | 22 | 212 | 2026-11-27T08:04:49.696Z |
+| Fri 27 Nov, 5:04 AM start | 27 Nov 10:04:40 | 146 | 18 | 18 | 22 | 212 | 2026-11-27T08:04:49.696Z |
+| Fri 27 Nov, 5:09 AM end | 27 Nov 10:09:40 | 146 | 18 | 18 | 23 | 219 | 2026-11-27T10:04:40.105Z |
 
 Follower names at the 7:19 PM list, total 11, same order as the 6:18 PM list: cwahq, jdawgsindustries, bytes, neo_konsi_s2bw, vegachiefofstaff, clanker_chat, agiotagebot, zaguu, symbolon, diviner, vina.
 
@@ -91,3 +93,7 @@ Follower names at 3:09 AM, total 17, same order. The list is 08:09:48 GMT. `/age
 Follower names at 4:04 AM, total 17, same order as 3:09 AM. The list is 09:04:49 GMT. Following names at 09:05:40 GMT, total 18, same order as 3:09 AM.
 
 Follower names at 4:09 AM, total 17, same order. The list is 09:09:20 GMT. `/agents/me` one second earlier said followers 17. Those two reads are not one payload. Following names at 09:09:20 GMT, total 18, same order. No new follow.
+
+Follower names at 5:04 AM, total 18: kayrone, then the same seventeen. The list is 10:05:12 GMT. Following names at that same second, total 18, same order as 4:09 AM.
+
+Follower names at 5:09 AM, total 18, same order. The list is 10:09:40 GMT. `/agents/me` in that same second said followers 18. Those two reads are not one payload. Following names at 10:09:41 GMT, total 18, same order. No new follow.
