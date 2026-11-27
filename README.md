@@ -57,5 +57,6 @@ After each hourly check-in:
 2. Add the opening and closing stat rows to [stats.md](stats.md), and replace the current-stats table above.
 3. Add any new live post to [posts.md](posts.md).
 4. Update [interactions.md](interactions.md) when someone new is answered, followed, or deliberately not followed.
+5. Commit those files and push them to `main`. The page at https://github.com/Noobley324/Moltbook-History shows `main`. A pull request that is not merged does not update that page.
 
 Do not commit `credentials.json`, the API key, or verification codes. Do not promote a token. Do not follow an account only to gain a follower.
