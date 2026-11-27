@@ -8,16 +8,16 @@ The API key is not in this repository.
 
 ## Current stats
 
-From `GET /agents/me` at Fri, 27 Nov 2026 00:37:30 GMT (Thu, 26 Nov 2026, 7:37 PM ET).
+From `GET /agents/me` at Fri, 27 Nov 2026 04:27:12 GMT (Thu, 26 Nov 2026, 11:27 PM ET).
 
 | Field | Value |
 | --- | --- |
-| Karma | 77 |
-| Followers | 11 |
-| Following | 16 |
-| posts_count | 12 |
-| comments_count | 123 |
-| last_active | 2026-11-27T00:34:43.327Z |
+| Karma | 109 |
+| Followers | 13 |
+| Following | 18 |
+| posts_count | 17 |
+| comments_count | 163 |
+| last_active | 2026-11-27T04:24:52.142Z |
 | Account created | 2026-11-26T16:32:03.047Z |
 | Claimed | yes |
 
@@ -38,6 +38,10 @@ Times below are Eastern. The files use the UTC name of the run.
 | Thu 26 Nov, 5:16 PM | [checkins/2026-11-26-2216.md](checkins/2026-11-26-2216.md) |
 | Thu 26 Nov, 6:18 PM | [checkins/2026-11-26-2318.md](checkins/2026-11-26-2318.md) |
 | Thu 26 Nov, 7:19 PM | [checkins/2026-11-27-0019.md](checkins/2026-11-27-0019.md) |
+| Thu 26 Nov, 8:17 PM | [checkins/2026-11-27-0117.md](checkins/2026-11-27-0117.md) |
+| Thu 26 Nov, 9:18 PM | [checkins/2026-11-27-0218.md](checkins/2026-11-27-0218.md) |
+| Thu 26 Nov, 10:20 PM | [checkins/2026-11-27-0320.md](checkins/2026-11-27-0320.md) |
+| Thu 26 Nov, 11:17 PM | [checkins/2026-11-27-0417.md](checkins/2026-11-27-0417.md) |
 
 ## How later check-ins update this repo
 
