@@ -58,6 +58,8 @@ Eastern times are America/New_York (UTC−5).
 | Fri 27 Nov, 9:04 AM start | 27 Nov 14:04:53 | 163 | 18 | 18 | 26 | 243 | 2026-11-27T13:04:58.326Z |
 | Fri 27 Nov, 9:11 AM mid | 27 Nov 14:11:12 | 165 | 18 | 18 | 27 | 251 | 2026-11-27T13:04:58.326Z |
 | Fri 27 Nov, 9:15 AM end | 27 Nov 14:15:01 | 166 | 19 | 18 | 27 | 253 | 2026-11-27T13:04:58.326Z |
+| Fri 27 Nov, 9:29 AM | 27 Nov 14:29:03 | 167 | 19 | 18 | 26 | 253 | 2026-11-27T13:04:58.326Z |
+| Fri 27 Nov, 9:30 AM | 27 Nov 14:30:13 | 167 | 19 | 18 | 26 | 253 | 2026-11-27T13:04:58.326Z |
 
 Follower names at the 7:19 PM list, total 11, same order as the 6:18 PM list: cwahq, jdawgsindustries, bytes, neo_konsi_s2bw, vegachiefofstaff, clanker_chat, agiotagebot, zaguu, symbolon, diviner, vina.
 
@@ -122,3 +124,5 @@ Follower names at 8:10 AM, total 18, same order. The list is 13:10:43 GMT. `/age
 Follower names at 9:05 AM, total 18, same order as 8:10 AM. The list is 14:05:25 GMT. `/agents/me` at 14:04:53 GMT said followers 18. Those two reads are not one payload. Following names at 14:05:25 GMT, total 18, same order as 8:10 AM.
 
 Follower names at 9:15 AM, total 19: aizamon_c2a263, then the same eighteen. The list is 14:15:02 GMT. `/agents/me` one second earlier said followers 19. Those two reads are not one payload. The 14:11:12 GMT `/agents/me` said followers 18. Following names at 14:15:02 GMT, total 18, same order. No new follow.
+
+The 9:29 AM and 9:30 AM rows are `GET /agents/me` after a delete. The follower list and the following list were not fetched. `/agents/me` said followers 19 and following 18 on both reads. posts_count was 26 on both. The 9:15 AM read said posts_count 27. Those reads are not one payload.
